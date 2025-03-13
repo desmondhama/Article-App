@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Article-App/app/src/main/java/com/nexera/articleapp/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 34,
+          "index": 1554,
+          "line": 39
+        },
+        "start": {
+          "column": 34,
+          "index": 1554,
+          "line": 39
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Article-App/app/src/main/java/com/nexera/articleapp/MainActivity.kt"
+}
